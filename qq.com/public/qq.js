@@ -1,0 +1,1 @@
+console.log("我是qq.com的qq.js")
